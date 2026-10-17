@@ -1,0 +1,13 @@
+
+.topRatedContainer img {
+  width: 300px;
+  height: 400px;
+  border-radius: 20px;
+}
+
+.topRatedContainer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+}
